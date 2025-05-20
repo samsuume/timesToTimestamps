@@ -4,7 +4,7 @@
   "version": "1.0.0",
   "apiLevel": 2,
   "meta": {
-    "name": "timesToTimestamps",
+    "name": "Times To Timestamps",
     "tagline": "Replace times in messages you send with Unix Timestamps",
     "authors": ["samsuume"],
     "source": "https://github.com/samsuume/timesToTimestamps"
