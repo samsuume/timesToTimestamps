@@ -1,0 +1,13 @@
+{
+  "$schema": "https://moonlight-mod.github.io/manifest.schema.json",
+  "id": "timesToTimestamps",
+  "version": "1.0.0",
+  "apiLevel": 2,
+  "meta": {
+    "name": "timesToTimestamps",
+    "tagline": "i hate doing time zone conversions",
+    "description": "Replace ",
+    "authors": ["samsuume"],
+    "source": "https://example.com/"
+  }
+}
