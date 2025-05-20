@@ -5,9 +5,8 @@
   "apiLevel": 2,
   "meta": {
     "name": "timesToTimestamps",
-    "tagline": "i hate doing time zone conversions",
-    "description": "Replace ",
+    "tagline": "Replace times in messages you send with Unix Timestamps",
     "authors": ["samsuume"],
-    "source": "https://example.com/"
+    "source": "https://github.com/samsuume/timesToTimestamps"
   }
 }
